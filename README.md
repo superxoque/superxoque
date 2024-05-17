@@ -1,6 +1,7 @@
-### Hi there 👋
+###  juliana-2b-robotica
 
-<!--
+![](https://github.com/superxoque/superxoque/assets/170126748/3c093491-0ce3-42d6-8889-f144d0cf0983)
+
 **superxoque/superxoque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
